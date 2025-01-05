@@ -1,0 +1,14 @@
+langchain_ollama
+langchain_core
+langchain
+langgraph
+langchain_aws
+botocore
+python-dotenv
+ipykernel
+twelvedata
+pandas
+MetaTrader5
+langchain_openai
+fastapi
+uvicorn
