@@ -12,3 +12,5 @@ MetaTrader5
 langchain_openai
 fastapi
 uvicorn
+pymongo
+matplotlib
