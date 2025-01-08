@@ -8,7 +8,6 @@ python-dotenv
 ipykernel
 twelvedata
 pandas
-MetaTrader5
 langchain_openai
 fastapi
 uvicorn
